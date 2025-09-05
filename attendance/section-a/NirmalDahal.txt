@@ -1,0 +1,12 @@
+Name: Nirmal Dahal
+Section: A
+Roll No: 23
+Days present: 6
+Netlify site url: [Paste your Netlify deployed link here]
+
+Learnings
+  Learned how to create and design a simple website.
+  Learned how to host a website on Netlify.
+  Learned to use GitHub for version control and project management.
+  Learned how to upload project files on GitHub and connect it with Netlify.
+  Understood the process of deployment and fixing errors if any.

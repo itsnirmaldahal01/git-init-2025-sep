@@ -1,0 +1,7 @@
+Name: Nirmal Dahal
+Section: A
+Roll no: 23
+Days Present: 6
+Netlify Site URL: 
+Learnings: Using Terminal for git and Github for creating, editing and changing in file or using Vscode 
+           Creating website by uploading as html and done through netlify
